@@ -1,3 +1,8 @@
+# Important
+
+it is a copy of repo https://github.com/dingo-cpr/dingo
+
+
 dingo
 ======
 
